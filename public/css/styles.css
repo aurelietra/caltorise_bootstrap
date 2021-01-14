@@ -21,7 +21,7 @@ h5 {
 h2, h1 {
      font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    width: 100%;
+
 }
 
 article , p{
@@ -32,7 +32,7 @@ img{
     max-width: 100%;
     max-height: 100%;
 }
-.nav{
+.lang-menu{
    
 }
 
@@ -54,7 +54,10 @@ img{
 }
 
 .title_header{
-    padding-top: 30px;
+    position: absolute;
+    z-index: 6;
+    height: 600px;
+    
 }
 .store{
     display: flex;
@@ -62,8 +65,10 @@ img{
     padding: 0;
 }
 .smartphone{
+float: right;
+    position: relative;
+    z-index: 3;
 
-    padding-top: 150px;
 }
 #appstore{
     margin-right: 20px
@@ -73,7 +78,7 @@ img{
 
 /* ABOUT */
 .about{
-     margin-top: -30px;
+     margin-top: 50px;
     margin-bottom: 60px;
 }
 
@@ -114,6 +119,7 @@ img{
     font-family: 'Roboto';
     font-weight: bold;
     font-size: 14px;
+    width: 100%;
 }
 
 .temps {
@@ -336,6 +342,20 @@ button {
     text-align: end;
 }
 
+/* CGU, CONDITIONS, POLITIQUE CONF */
+.cgu{
+    background: linear-gradient(#31363B, #181A1F);
+    height: 150px;
+    color: white;
+    
+}
+.paragraphe{
+    font-family: 'Roboto', sans-serif;
+    
+}
+#numeros{
+    font-weight: bold;
+}
 
 /* COL */
 
