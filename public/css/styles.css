@@ -1,0 +1,323 @@
+body,
+html {
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+#trait{
+    border-top: 2px solid black;
+    opacity: 0.10;
+    margin: 0px 100px 0px 100px;
+}
+
+h5 {
+    font-family: 'Roboto' sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #16999F;
+}
+
+h2 {
+     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+article , p{
+    margin-top: 20px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+/* HEADER */
+.header{
+    background: url('../img/hero-image.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+.title_header{
+    color: white;
+}
+.logo{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.title_heade{
+}
+.store{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+/* ABOUT */
+.about{
+     margin-top: -30px;
+    margin-bottom: 60px;
+}
+
+
+
+
+
+/* WHO */
+.who{
+     margin-top: 66px;
+}
+
+
+
+
+/* WHY */
+.why{
+     margin-top: 60px;
+    background-color: #E8F5F6;
+}
+.why h2{
+     margin-top: 0;
+    padding-top: 0px;
+}
+.why h5{
+    margin-top: 0;
+    padding-top: 0px;
+}
+
+.design_why, .text_why{
+  
+    padding: 20px;
+}
+
+.budget {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.temps {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.famille {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#text_blue {
+    color: #16999F;
+}
+
+#petit_trait {
+    border-top: 2px solid black;
+    opacity: 0.10;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+}
+
+#icons {
+    margin-right: 20px;
+
+}
+
+
+
+
+
+/* VALEURS */
+.valeur{
+     margin-top: 60px;
+}
+#petit_blue {
+    border-top: 4px solid #16999F;
+    width: 25px;
+    margin-top: -10px;
+}
+
+#valeur_subtitle {
+    font-weight: bold;
+}
+
+.valeur h2{
+    padding-bottom: 20px;
+}
+
+
+
+
+/* FONCTION */
+.fonctionnement{
+     margin-top: 60px;
+    background: linear-gradient(to bottom right, #181A1F, #31363B);
+        color: white;
+  padding-bottom: 100px;
+}
+
+.fonctionnement h2{
+    text-align: center;
+}
+#nb {
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    background-color: #16999F;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#etape_text {
+    font-size: 12px;
+}
+
+/* SPONSORS */
+ .img_sponsors{
+     background-color: #E8F5F6;
+    height: 200px;
+    border-radius: 10px;
+
+}
+
+
+
+
+/*PROJETS*/
+.projets{
+     margin-top: 60px;
+    padding-bottom: 50px;
+}
+#projet_subtitle {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#projet_text_bleu {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    color: #16999F;
+}
+
+
+
+
+/*REJOIGNEZ NOUS*/
+.rejoigneznous{
+    
+     height: 400px;
+    background: linear-gradient(to right, #18969E, #1F9BAE, #27BCBF);
+}
+
+#app_text {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+#cloud{
+    
+}
+
+
+/* RS */
+.rs{
+    background-image: url('../icons/social-background.svg');
+    height: 421px;
+}
+#rs_info {
+  text-align: center;
+    font-family: 'Roboto';
+    margin: auto;
+}
+#rs_img{
+    margin: 20px;
+}
+
+
+/* FORM*/
+.form_text{
+   height: 800px;
+    background-color: #E8F5F6;
+    display: flex;
+}
+
+
+label {
+    /* Pour être sûrs que toutes les étiquettes ont même taille et sont correctement alignées */
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+form {
+      margin-top: 60px;
+    /* Uniquement centrer le formulaire sur la page */
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+    /* Encadré pour voir les limites du formulaire */
+    padding: 2em;
+   
+    border-radius: 10px;
+    background-color: white;
+}
+button {
+    
+    background-color: #0D999F;
+    width: 150px;
+    height: 30px;
+    color: white;
+   font-size: 12px;
+    border-radius: 5px;
+    margin-left: 72%;
+    border: 0px;
+    
+}
+
+
+
+
+
+
+/*FOOTER*/
+.footer{
+    background: linear-gradient(#181A1F, #31363B);
+    height: 248px;
+    color: white;
+    
+}
+
+#lien{
+    color: white; 
+    margin: 10px;
+}
+
+
+
+/* COL */
+
+.col-sm-12 col-xs-12 cloud {
+    display: none;
+}

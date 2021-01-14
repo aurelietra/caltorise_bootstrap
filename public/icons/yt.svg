@@ -1,0 +1,13 @@
+<svg id="youtube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="46.406" viewBox="0 0 66 46.406">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e52d27"/>
+      <stop offset="1" stop-color="#bf171d"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_449" data-name="Groupe 449" transform="translate(0 0)">
+    <path id="Tracé_7194" data-name="Tracé 7194" d="M101.6,80.38,133.648,65.9,101.6,51.3V80.38Z" transform="translate(-83.134 -43.078)" fill="#fff"/>
+    <path id="Tracé_7195" data-name="Tracé 7195" d="M101.6,51.3l28.112,18.756,3.937-2.038L101.6,51.3Z" transform="translate(-83.134 -41.132)" fill="#420000" opacity="0.12"/>
+    <path id="Tracé_7196" data-name="Tracé 7196" d="M65.3,10s-.644-4.537-2.629-6.548A9.383,9.383,0,0,0,56.052.67C46.852,0,33.013,0,33.013,0h-.026S19.148,0,9.9.67A9.46,9.46,0,0,0,3.273,3.455C1.314,5.466.67,10,.67,10A98.979,98.979,0,0,0,0,20.7v5A98.193,98.193,0,0,0,.67,36.377s.644,4.537,2.629,6.548c2.5,2.63,5.8,2.552,7.267,2.81,5.283.516,22.421.67,22.421.67s13.865-.026,23.091-.7A9.46,9.46,0,0,0,62.7,42.926c1.984-2.011,2.629-6.548,2.629-6.548A98.2,98.2,0,0,0,66,25.7v-5A103.008,103.008,0,0,0,65.3,10ZM26.184,31.763V13.226l17.834,9.307-17.834,9.23Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

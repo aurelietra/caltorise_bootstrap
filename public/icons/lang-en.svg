@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.017" height="16.38" viewBox="0 0 24.017 16.38">
+  <g id="icons8-great_britain" transform="translate(-2 -10)">
+    <path id="Tracé_7198" data-name="Tracé 7198" d="M2,10H26.017V26.38H2Z" transform="translate(0 0)" fill="#3f51b5"/>
+    <path id="Tracé_7199" data-name="Tracé 7199" d="M2,12.3l11.359,6.943,1.708-2.795L4.515,10H2Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Tracé_7200" data-name="Tracé 7200" d="M35.582,10h-1.97L23.061,16.449l1.707,2.8,10.814-6.61Z" transform="translate(-9.565 0)" fill="#fff"/>
+    <path id="Tracé_7201" data-name="Tracé 7201" d="M24.768,20.271l-1.707,2.795,11.261,6.883h1.26V26.88Z" transform="translate(-9.565 -3.568)" fill="#fff"/>
+    <path id="Tracé_7202" data-name="Tracé 7202" d="M2,27.214v2.734H3.807l11.26-6.882-1.707-2.8Z" transform="translate(0 -3.568)" fill="#fff"/>
+    <path id="Tracé_7203" data-name="Tracé 7203" d="M2,20H26.017v4.367H2Z" transform="translate(0 -3.993)" fill="#fff"/>
+    <path id="Tracé_7204" data-name="Tracé 7204" d="M20,10h4.367V26.38H20Z" transform="translate(-8.175 0)" fill="#fff"/>
+    <g id="Groupe_458" data-name="Groupe 458" transform="translate(2 10)">
+      <path id="Tracé_7205" data-name="Tracé 7205" d="M10.307,15.85,2,10.409V11.78l6.213,4.07ZM25.094,10l-8.931,5.85h2.093l7.761-5.083V10ZM18.966,20.53l7.051,4.619V23.777L21.059,20.53Zm-9.369,0L2,25.506v.874h.76l8.931-5.85ZM2,17.02H26.017v2.34H2Z" transform="translate(-2 -10)" fill="#e53935"/>
+      <path id="Tracé_7206" data-name="Tracé 7206" d="M22,10h2.183V26.38H22Z" transform="translate(-11.083 -10)" fill="#e53935"/>
+    </g>
+  </g>
+</svg>
