@@ -8,7 +8,7 @@ html {
 #trait{
     border-top: 2px solid black;
     opacity: 0.10;
-    margin: 0px 100px 0px 100px;
+    margin: 60px 100px 60px 100px;
 }
 
 h5 {
@@ -18,9 +18,10 @@ h5 {
     color: #16999F;
 }
 
-h2 {
+h2, h1 {
      font-family: 'Roboto', sans-serif;
     font-weight: bold;
+    width: 100%;
 }
 
 article , p{
@@ -31,31 +32,42 @@ img{
     max-width: 100%;
     max-height: 100%;
 }
-
+.nav{
+   
+}
 
 /* HEADER */
 .header{
     background: url('../img/hero-image.jpg');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
+  
 }
 
 .title_header{
     color: white;
 }
 .logo{
-    padding-top: 20px;
+    padding-top: 40px;
     text-align: center;
 }
 
-.title_heade{
+.title_header{
+    padding-top: 30px;
 }
 .store{
     display: flex;
     flex-direction: row;
+    padding: 0;
 }
+.smartphone{
 
+    padding-top: 150px;
+}
+#appstore{
+    margin-right: 20px
+}
 
 
 
@@ -194,7 +206,9 @@ img{
 
 }
 
-
+#sponsor{
+    
+}
 
 
 /*PROJETS*/
@@ -282,6 +296,7 @@ form {
    
     border-radius: 10px;
     background-color: white;
+    max-width: 100%;
 }
 button {
     
@@ -291,9 +306,9 @@ button {
     color: white;
    font-size: 12px;
     border-radius: 5px;
-    margin-left: 72%;
     border: 0px;
-    
+    max-width: 100;
+    float: right;
 }
 
 
@@ -304,7 +319,7 @@ button {
 /*FOOTER*/
 .footer{
     background: linear-gradient(#181A1F, #31363B);
-    height: 248px;
+    height: 200px;
     color: white;
     
 }
@@ -312,8 +327,14 @@ button {
 #lien{
     color: white; 
     margin: 10px;
+    width: 100%;
 }
 
+.mentions{
+    padding-top: 60px;
+    float: right;
+    text-align: end;
+}
 
 
 /* COL */

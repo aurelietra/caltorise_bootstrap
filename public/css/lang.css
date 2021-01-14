@@ -1,15 +1,13 @@
 /* LANGUE */
 
 .lang-menu {
-    width: 180px;
+    width: 60px;
     text-align: right;
     color: white;
     font-family: 'Roboto';
     font-size: 14px;
     position: absolute;
-    z-index: 7;
-    margin-left: 1100px;
-    margin-top: -50px;
+    z-index: 5;
 }
 
 .lang-menu .selected-lang {
